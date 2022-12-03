@@ -5,6 +5,8 @@
 
  This one is a quiz with ten questions about some of your favourite Hollywood movies with scores. *No spoilers, I promise.*
 
+### [Click here to play the game!](https://replit.com/@nosfeeferatu/DoYouKnowMovies?embed=1&output=1)
+
 ## Used:
 
 1. JavaScript
@@ -14,6 +16,7 @@
 
 ## How to Play:
 
+- Click on Run after you open the link
 - Enter your name
 - Once you enter the game you will be asked ten questions 
 - You will have four options for each of these questions
